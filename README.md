@@ -26,7 +26,7 @@ The optimizer used in this project is Mini Batch Stochastic Gradient Descent (SG
 
 For binary classification, we use **Binary Crossentropy** as the loss function.
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;L%20=%20-\left[y%20\ln(p)%20+%20(1-y)%20\ln(1-p)\right]" /> title="Binary Cross Entropy" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;L%20=%20-\left[y%20\ln(p)%20+%20(1-y)%20\ln(1-p)\right]" title="Binary Cross Entropy" />
 
 where \( y \) is either \( 0 \) or \( 1 \), and \( p \) is the predicted probability.
 
