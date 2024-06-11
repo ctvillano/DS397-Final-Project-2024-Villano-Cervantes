@@ -41,7 +41,7 @@ where y is either 0 or 1, and p is the predicted probability.
 
 ### Contributors
 
-- Celso Villano [ctvillano.up.edu.ph]
+- Celso Villano [ctvillano@up.edu.ph]
 - Kristen Joyce Cervantes [krcervantes@up.edu.ph]
 
 
